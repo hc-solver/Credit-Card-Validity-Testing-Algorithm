@@ -3,8 +3,6 @@
 """
 Created on Wed Aug 26 08:04:52 2020
 
-@author: summer
-"""
 
 def verify(number) : # do not change this line!
 
